@@ -1,0 +1,64 @@
+{
+  "quiz_questions": [
+    {
+      "id": 1,
+      "instruction_text": "What is the largest country by land area?",
+      "answer_options": ["China", "Canada", "Russia", "United States"],
+      "answer": "Russia"
+    },
+    {
+      "id": 2,
+      "instruction_text": "Who is the author of the Harry Potter book series?",
+      "answer_options": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Dan Brown"],
+      "answer": "J.K. Rowling"
+    },
+    {
+      "id": 3,
+      "instruction_text": "What is the chemical symbol for iron?",
+      "answer_options": ["Ir", "Fe", "In", "I"],
+      "answer": "Fe"
+    },
+    {
+      "id": 4,
+      "instruction_text": "Which city is the capital of France?",
+      "answer_options": ["Berlin", "London", "Paris", "Rome"],
+      "answer": "Paris"
+    },
+    {
+      "id": 5,
+      "instruction_text": "Who painted the famous artwork 'The Starry Night'?",
+      "answer_options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+      "answer": "Vincent van Gogh"
+    },
+    {
+      "id": 6,
+      "instruction_text": "Which planet is known as the 'Morning Star' or the 'Evening Star'?",
+      "answer_options": ["Jupiter", "Mars", "Mercury", "Venus"],
+      "answer": "Venus"
+    },
+    {
+      "id": 7,
+      "instruction_text": "What is the largest desert in the world?",
+      "answer_options": ["Sahara Desert", "Gobi Desert", "Arabian Desert", "Kalahari Desert"],
+      "answer": "Sahara Desert"
+    },
+    {
+      "id": 8,
+      "instruction_text": "Which famous scientist developed the theory of relativity?",
+      "answer_options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Nikola Tesla"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "id": 9,
+      "instruction_text": "Which country is known as the 'Land of the Rising Sun'?",
+      "answer_options": ["Thailand", "China", "South Korea", "Japan"],
+      "answer": "Japan"
+    },
+    {
+      "id": 10,
+      "instruction_text": "What is the national flower of India?",
+      "answer_options": ["Lotus", "Rose", "Tulip", "Sunflower"],
+      "answer": "Lotus"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+.buttonStyle {
+    background-color: rgb(219, 178, 45);
+    border: none;
+    border-radius: 30px;
+    justify-content: center;
+    height: 50px;
+    width: 30%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: larger;
+}
+
+.centerButtons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.buttonStyle:hover {
+    background-color: wheat;
+}
+
+.buttonStyle.incorrect {
+    background-color: red;
+}
+
+.buttonStyle.correct {
+    background-color: rgb(60, 202, 60);
+}

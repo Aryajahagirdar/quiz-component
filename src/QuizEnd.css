@@ -1,0 +1,35 @@
+.addStyle {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.endMessage {
+    padding: 40px;
+    color: azure;
+    font-size: 60px;
+    font-weight: 500;
+}
+
+.restartLink {
+    color: #ffffff;
+    /* Text color */
+    text-decoration: none;
+    /* Remove underline by default */
+    transition: color 0.2s ease;
+    /* Transition effect for color change */
+    font-size: larger;
+}
+
+.restartLink:hover {
+    color: #0056b3;
+    /* Color change on hover */
+    text-decoration: underline;
+    /* Underline on hover */
+}
+
+.restartLink:focus {
+    outline: none;
+    /* Remove focus outline */
+}
